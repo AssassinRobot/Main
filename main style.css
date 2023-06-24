@@ -1,0 +1,364 @@
+*{
+    font-family: 'Open sans','Helvetican Neue',Arial, sans-serif;
+    margin: auto;
+}
+.header{
+    background-image: url('https://img.freepik.com/free-photo/digital-laptop-working-global-business-concept_53876-23307.jpg?size=626&ext=jpg&ga=GA1.2.1959082218.1680184212&semt=ais');
+    background-size: 100% 100%;
+}
+.ToolsBar{
+    display: inline-block;
+    margin-left: 15px;
+
+}
+.ListInHead{
+    position: absolute;
+    right: 15px;
+    top: 5.5px;
+}
+a{
+    text-decoration: none;
+}
+
+.TextInHead{
+    text-transform: uppercase;
+    font-size: 20px;
+    position: relative;
+    left: 10px;
+    
+    color:snow;
+}
+.ToolsBarUl{
+    font-size: 15px;
+}
+.a_line_buttom1{
+    position: relative;
+    top:5px;
+}
+.MainTextHead{
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding-top: 200px;
+    margin-left:200px ;
+    width: 70%;
+    color: #fff;
+}
+.a_line_buttom2{
+    border-color:#48E68B ; 
+    border-width: 3px;
+    max-width: 60px;
+    border: 0px;
+    border-top:4px solid #48E68B;
+    margin-top: 25px;
+}
+.a_line_buttom2:hover{
+    max-width: 1390px;
+
+}
+.a_p_in_head{
+    text-align: center;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-top: 50px;
+    width: 70%;
+    color: #fff;
+}
+.Tool{
+    color: rgba(255, 255,255, .7);
+}
+.Tool:hover{
+    color: snow;
+}
+.buttons {
+    padding-top: 50px;
+    text-align: center;
+  }
+.btn {
+    border-radius: 100px;
+    padding: 10px 20px;
+    font-size: 22px;
+    text-decoration: none;
+    margin: 20px;
+    color: #fff;
+    position: relative;
+    display: inline-block;
+    left: 550px;
+    margin-top: 60px;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+  .green {
+    background-color: #2ecc71;
+  }
+  
+  .green:hover {
+    background-color: #48E68B;
+  }
+  .Info{
+    background: #2ecc71;
+    width: 100%;
+    height: 400px;
+  }
+  .H2InInfo{
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    padding-top: 90px;
+    width: 70%;
+    color: #fff;
+    font-weight: 500;
+  }
+  
+  .AhrBtnH2{
+    border-color: #fff; 
+    border-width: 3px;
+    max-width: 60px;
+    border: 0px;
+    border-top:4px solid #fff;
+    margin-top: 15px;
+  }
+  .AhrBtnH2:hover{
+    max-width: 1390px;
+  }
+  .PInInfo{
+    text-align: center;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-top: 20px;
+    width: 70%;
+    color: #fff;
+  }
+  .btn2 {
+    border-radius: 100px;
+    padding: 10px 20px;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 20px;
+    color: #48E68B;
+    position: relative;
+    display: inline-block;
+    left: 550px;
+    margin-top: 60px;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+  .white{
+    background-color: #ffffffd2;
+  }
+  .white:hover {
+    background-color: #ffffff;
+    
+  }
+  .ServicesBox{
+    background-color: #f5f5f5;
+  }
+  .ServicHeading{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 70px;
+    font-weight: 500;
+    text-transform: uppercase;
+  }
+  .hrInService{
+    border-color:#48E68B ; 
+    border-width: 3px;
+    max-width: 60px;
+    border: 0px;
+    border-top:4px solid #48E68B;
+    margin-top: 20px;
+    margin-left: 640px;
+  }
+  .hrInService:hover{
+    max-width: 1390px;
+    margin-left: 0px;
+  }
+  .Boxs{
+    padding: 30px;
+    padding-top: 45px;
+  }
+  .Box{
+     width: 292px;
+     height: 200px;
+     
+  }
+  .Box:hover{
+    background-color:#48E68B ;
+  }
+  #Box1{
+    position: relative;
+    float: left;
+    bottom: -20px;
+    
+  }
+  #Box2{
+    position: relative;
+    right: 170px;
+    bottom: -20px;
+  }
+  #Box3{
+     float: right;
+     position: relative;
+     bottom: 180px;
+}
+#Box4{
+    float: right;
+    position: relative;
+    bottom: 180px;
+    right: 37px;
+}
+.Icon{
+    position: relative;
+    left: 98px;
+    padding: 10px;
+
+}
+#Icon2{
+    padding: 7px;
+}
+#Icon3{
+    padding-top: 16px;
+
+}
+.TitleIcon{
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+}
+.PIcon{
+    text-align: center;
+    padding: 10px;
+    color: #777;
+    width: 240px;
+
+}
+.Portfo{
+  width: 450px;
+
+}
+#png1{
+  float: left;
+}
+#png2{
+  position: relative;
+  bottom: 170px;
+}
+#png3{
+  float: right;
+  position: relative;
+  bottom: 417px;
+}
+#png4{
+  float: left;
+  position: relative;
+  bottom: 176px;
+}
+#png5{
+  position: relative;
+  bottom: 418px;
+  left: 450px;
+}
+#png6{
+  float: right;
+  position: relative;
+  bottom: 417px;
+}
+.black-box{
+  background-color: #222;
+  height: 203px;
+  position: relative;
+  bottom: 423px;
+}
+.h2InBlack{
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  font-weight: 500;
+  padding-top:50px ;
+}
+.btn3{
+  border-radius: 100px;
+  padding: 10px 20px;
+  font-size: 20px;
+  text-decoration: none;
+  margin: 20px;
+  color: #222;
+  position: relative;
+  display: inline-block;
+  left: 550px;
+  margin-top: 30px;
+  text-transform: uppercase;
+  font-weight: 500;
+
+}
+.ThisPageFoot{
+  position: relative;
+  top: 20px;
+  clear: both;
+}
+.h2InFoot{
+  text-align: center;
+  position:relative;
+  top: 150px;
+  font-size: 30px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.hrInFoot{
+  border-color:#48E68B ; 
+  border-width: 3px;
+  max-width: 60px;
+  border: 0px;
+  border-top:4px solid #48E68B;
+  margin-top: 20px;
+  margin-left: 640px;
+  position: relative;
+  top: 142px;
+}
+.hrInFoot:hover{
+  max-width: 1390px;
+    margin-left: 0px;
+
+}
+.pInFoot{
+  position: relative;
+  top: 160px;
+  text-align: center;
+  width: 750px;
+  font-weight: 500;
+}
+.phone{
+  width: 390px;
+  height: 90px;
+  float: right;
+  position: relative;
+  top: 300px;
+  right: 200px;
+}
+.email{
+  width: 390px;
+  height: 90px;
+  float: left;
+  position: relative;
+  top: 300px;
+  left: 200px;
+}
+.phoneicon{
+  position: absolute;
+  left: 177px;
+}
+.phonenumber{
+  text-align: center;
+  padding-top: 40px;
+}
+.emailicon{
+  position: absolute;
+  right: 177px;
+
+}
+.mailtext{
+  text-align: center;
+  padding-top: 40px;
+}
